@@ -1,3 +1,11 @@
-= Learnery
+= Learnery-Experiment: turn learnery on it's head
 
-This project rocks and uses MIT-LICENSE.
+
+* turn the theme into a normal rails app
+* turn learnery into a rails engine
+
+
+=== open questions / problems ===
+
+* does the host app have to use bootstrap?
+* is users + devise part of the host app?
